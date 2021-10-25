@@ -23,7 +23,7 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
+        label: Asunto
         default_value: Please select
         options:
           - Error en el sitio
@@ -38,9 +38,9 @@ sections:
         label: >-
           Entiendo que esta forma almacena mi información para 
           poder ser contactado.
-    submit_label: Send Message
+    submit_label: Enviar Mensaje
 seo:
-  title: Contact
+  title: Contacto
   description: This is the contact page
   extra:
     - name: 'og:type'
