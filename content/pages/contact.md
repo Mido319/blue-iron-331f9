@@ -13,26 +13,26 @@ sections:
     form_fields:
       - input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Nombre
+        default_value: Tu nombre
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Tu email
         is_required: true
       - input_type: select
         name: subject
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Error en el sitio
+          - Cotización
+          - Otro
       - input_type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Mensaje
+        default_value: Tu mensaje
       - input_type: checkbox
         name: consent
         label: >-
