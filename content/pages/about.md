@@ -32,10 +32,9 @@ seo:
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+¡Hola! Mi nombre es Midori Yamamoto. Soy bióloga y diseñadora gráfica. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Tuve la fortuna de trabajar en investigación básica durante 5 años, pero descubrí que mi pasión es la comunicación pública de la ciencia, por eso me animé a 
+estudiar diseño gráfico, manejo de redes sociales y diseño UX/UI. Pensé que esta sería una gran combinación para ayudar a personas interesadas en compartir 
+información científica, pero que no están seguras de cuál sería la mejor estrategia para hacerlo. 
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
