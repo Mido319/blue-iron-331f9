@@ -1,13 +1,13 @@
 ---
-title: Contact
+title: Contacto
 hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      ¡Hola! Muchas gracias por tu intéres en trabajar juntos. Por favor,
+      llena el formato de contacto o escríbeme a
+      [midori.yamamoto26@ciencias.unam.mx](mailto:example@example.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -36,8 +36,8 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+          Entiendo que esta forma almacena mi información para 
+          poder ser contactado.
     submit_label: Send Message
 seo:
   title: Contact
