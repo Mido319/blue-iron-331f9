@@ -5,9 +5,11 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Midori Yamamoto y soy diseñadora gráfica'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      También soy bióloga y adoro la comunicación pública de la ciencia. El
+      contenido educativo no está peleado con el diseño y puedo ayudarte a
+      alcanzar tus metas en diseño de contenidos, estrategias de marca y muchas
+      cosas más. 
     actions:
       - label: Contáctame
         url: /contact
