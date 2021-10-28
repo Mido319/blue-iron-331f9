@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hola, soy Midori Yamamoto y soy diseñadora gráfica'
+    title: 'Hola, soy Midori Yamamoto y soy diseñadora'
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
